@@ -33,9 +33,10 @@ git add README.md
 git add CU_CompraBoletosBus.jpg
 git add Lab1_Requerimientos_Fun_y_no_Fun.pdf
 
-### Paso 5: Realizar el commit (Pedirá usuario y contraseña)
+### Paso 5: Realizar el commit (Primero usuario y contraseña)
 git config user.email "ejemplo@gmail.com"
 git config user.name "Nombre Apellido"
+git commit -m "Comentario para identificar la acción"
 
 ### Paso 6: Subir al server GitHub
 git push
