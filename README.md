@@ -9,9 +9,9 @@ Laboratorio 1, Análisis de Sistemas I, 2021
 ### Catedrático: Ing. Josué Barillas
 
 ### Nombre:
-##### Johan Estuardo Carrillo Berducido
+#### Johan Estuardo Carrillo Berducido
 ### Carne: 
-##### 1290-18-8728
+#### 1290-18-8728
 
 
 Sección USAGE
