@@ -14,8 +14,6 @@ Laboratorio 1, Análisis de Sistemas I, 2021
 ##### 1290-18-8728
 
 
-=============
-
 Sección USAGE
 =============
 ### Paso 1: Clonar repositorio:
